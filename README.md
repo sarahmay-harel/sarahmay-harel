@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarahmay-harel
 - 👀 I’m interested in making functional, beautiful websites and scripts
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any website projects you're working on
+- 💞️ Talk to me about any website projects you're working on!
 - 📫  sarahmayharel@gmail.com
 
 <!---
