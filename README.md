@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sarahmay-harel
+- 💻 See my portfolio at (sarahmayharel.com)[https://sarahmayharel.com]
 - 👀 I’m interested in making functional, beautiful websites and scripts
 - 🌱 I’m currently learning Javascript
 - 💞️ Talk to me about any website projects you're working on!
